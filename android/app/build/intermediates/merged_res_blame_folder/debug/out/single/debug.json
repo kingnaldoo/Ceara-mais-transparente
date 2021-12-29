@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable_background_splash.xml.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable/background_splash.xml"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/reinaldo/Documentos/github/Ceara-mais-transparente/android/app/src/main/res/drawable/icon.png"
+    }
+]
