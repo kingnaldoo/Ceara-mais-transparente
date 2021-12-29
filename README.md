@@ -13,7 +13,7 @@ Ceará+Transparente
 Capture the data made available on the transparency portal and make it accessible to the general public.
 
 ## 🎲 PROJECT DESCRIPTION
-Project developed during Hackathon da Inteligência Cidadã com os integrantes:
+Project developed during Hackathon da Inteligência Cidadã with the members:
 <ul>
     <li>Anna Beatriz</li>
     <li>Francisco Jorge</li>
